@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Strassen algorithm"
+title: "strassen algorithm"
 author: "LeeJonwon"
 ---
 
