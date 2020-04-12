@@ -24,23 +24,19 @@ author: "LeeJonwon"
 
 #### 2.  Strassen 알고리즘의 계산법 2X2행렬 예시
 
->* **A행렬과 B행렬이 있고, C행렬은 AXB=C 로 다음과 같이 정의한다.**
+>* **2X2 형태의 정사각행렬인 A,B 가 있고 C=AXB인 행렬 C가 있다.**
 >
 >  
->
->> ![img](https://blogfiles.pstatic.net/20150324_136/forever1363_1427160639361hSAdh_PNG/080cf4ea03f581c879d1d5282582bc2a.png)
->>
->> 
 >
 >* **C=AXB 기존 방법**
 >
->  
+> 
 >
 >> ![img](https://blogfiles.pstatic.net/20150324_268/forever1363_1427160639580q2rLB_PNG/%C4%B8%C3%B31.PNG)
 >
->* **Strassen 알고리즘을 이용한 방법**
+> * **Strassen 알고리즘을 이용한 방법**
 >
->  
+> 
 >
 >>![img](https://blogfiles.pstatic.net/20150324_33/forever1363_1427160639733gW4mx_PNG/%C4%B8%C3%B32.PNG) ![img](https://blogfiles.pstatic.net/20150324_72/forever1363_1427160639903NdPdB_PNG/%C4%B8%C3%B33.PNG)
 >
@@ -84,5 +80,3 @@ author: "LeeJonwon"
 |  4096  |       873.527        |        264.728        |
 
 * ##### 결과: 위 표를 보면 행렬의 크기(N) 이 64이상일때 부터 Strassen 알고리즘의 속도가 빨라지는 것을 볼수 있다. N의 값이 커질수록 두 방법의 계산속도 차이는 매우 커지는 것을 알수 있다.
-
-  
