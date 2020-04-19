@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Jongwon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Part-time Instructor"
-  location         : ""
+  bio              : "Student"
+  location         : "Incheon"
   email            : "whddnjs3214@naver.com"
   links:
     - label: "Email"
