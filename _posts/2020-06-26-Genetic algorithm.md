@@ -3,7 +3,7 @@ layout: single
 title: "Genetic algorithm"
 ---
 
-### (Genetic algorithm)을 이용한 회기식 찾기
+### Genetic algorithm을 이용한 회귀식 찾기
 
 ###### -201601726 이종원
 
