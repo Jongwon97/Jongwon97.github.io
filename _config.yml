@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "이종원의 blog"
+title                    : "C언어 공부하자!"
 title_separator          : "-"
-subtitle                 : "#컴알 #INU" # site tagline that appears below site title in masthead
+subtitle                 : "#코딩 #c언어 #자료구조" # site tagline that appears below site title in masthead
 name                     : "Jongwon"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://jongwon97.github.io/"
